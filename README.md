@@ -1,5 +1,7 @@
 # chat
 
+# https://chat-4951b.firebaseapp.com
+
 ## Project setup
 ```
 npm install
